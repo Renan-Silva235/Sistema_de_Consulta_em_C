@@ -1,1 +1,0 @@
-void readVarEnv(char *host, char *user, char *password, char *database);
